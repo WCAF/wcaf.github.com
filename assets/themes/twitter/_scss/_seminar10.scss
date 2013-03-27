@@ -1,0 +1,162 @@
+#seminar10{
+background: url(../images/grid.png) repeat 0 0;
+
+header{
+	padding: 110px 0 30px;
+	h1{
+		margin-bottom: 40px;
+		text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.1);
+		font-family: 'Mr Dafoe', cursive;
+		font-size: 80px;
+		font-weight: normal;
+		text-align: center;
+	}
+	h2{
+		font-family: 'Mr Dafoe', cursive;
+		font-size: 26px;
+		text-align: center;
+		letter-spacing: 0.2em;
+	}
+}
+nav{
+	margin: 10px 0 30px;
+	li{
+		margin-bottom: 20px;
+	}
+}
+.entry{
+	margin-bottom: 30px;
+	a{
+		display: block;
+		text-align: center;
+	}
+}
+.content{
+	a{
+		text-decoration: none;
+		border-bottom: #999 1px dotted;
+	}
+	h2{
+		margin: 30px 0 20px;
+		font-size: 28px;
+		font-weight: bold;
+		
+
+	}
+	h3{
+		font-size: 21px;
+		font-weight: bold;
+		em{
+			font-size: 14px;
+			font-weight: normal;
+		}
+	}
+	h4{
+		font-size: 18px;
+		font-weight: bold;
+	}
+	table{
+		width: 100%;
+		border: #ccc 1px solid;
+		border-radius: 4px;
+		tr{
+			&.odd td{
+				background: #f3f3f3;
+			}
+			th{
+				background: #fff;
+				padding: 5px 10px;
+				font-weight: bold;
+				border: #ccc 1px solid;
+				text-align: left;
+			}
+			td{
+				background: #fff;
+				padding: 5px 10px;
+				border: #ccc 1px solid;
+			}
+		}
+	}
+	dl{
+		@extend .clearfix;
+		margin-bottom: 30px;
+		dt{
+			float: left;
+			width: 220px;
+		}
+		dd{
+			margin-left: 230px;
+			strong{
+				display: block;
+				margin-bottom: 10px;
+				font-size: 16px;
+			}
+		}
+	}
+	.social ul{
+		@extend .clearfix;
+		li{
+			float: left;
+		}
+	}
+}
+	nav{
+		li{
+			a{
+				text-decoration: none;
+				font-weight: bold;
+			}
+		}
+	}
+	footer { 
+		text-align: center;
+		
+	}
+}
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	#seminar10{
+		dl{
+			dt{
+				float: none;
+			}
+			dd{
+				margin-left: 0px;
+			}
+		}
+	}
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	#seminar10{
+		dl{
+			dt{
+				float: none;
+			}
+			dd{
+				margin-left: 0px;
+			}
+		}
+		nav{
+			li{
+				display: inline-block;
+			}
+		}
+	}
+}
