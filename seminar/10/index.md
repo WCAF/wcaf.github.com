@@ -25,50 +25,53 @@ Twitter ハッシュタグ    |   #wcaf
 
 ## セッション&amp;スピーカー情報
 
-### _Main Session1_ セッションタイトル入る
+### _Main Session1_ テーマ:レスポンシブウェブデザイン
 
-Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:
+（決まり次第お知らせします）
 
-![Qiita](http://placekitten.com/g/200/150 "Qiita")
-: **こもりまさあき**  Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:  
+![Qiita]({{ ASSET_PATH }}twitter/images/cipher.png "Qiita")
+: **こもりまさあき**  1972年生まれ、フリーランス。1990年代前半に都内のDTP系デザイン会社にてアルバイトをはじめる。大学卒業後そのまま正社員となり、入出力業務、デザイン業務、ネットワーク関連業務に並行して従事。2001年、会社を退職しそのままフリーランスの道へ。案件ごとに業務内容や立ち位置が異なるため、職域的な肩書きはなし。「次の10年を生き抜くためにどうすればいいか」を日々模索中。  
 <a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a>  
-<a href="https://twitter.com/cipher" target="_blank" class="fb">facebook</a>   
+<a href="https://www.facebook.com/gaspanik" target="_blank" class="fb">facebook</a>   
 
-### _Main Session2_ セッションタイトル入る
+### _Main Session2_ テーマ:JavaScript
 
-Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:
+（決まり次第お知らせします）
 
-![Qiita](http://placekitten.com/g/200/150 "Qiita")
-: **山越 崇裕（やまこし たかひろ）**  Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:  
-<a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a>  
-<a href="https://twitter.com/cipher" target="_blank" class="fb">facebook</a>  
+![Qiita]({{ ASSET_PATH }}twitter/images/ikachan.png "Qiita")
+: **山越 崇裕（やまこし たかひろ）**  アプリ開発が花型な会社でサーバ開発やHTMLマークアップを担当するエンジニア。サーバもフロントも卒なくこなす人材目指して勉強中。JAWS-UG 福井の副主催者としても活動中。    
+<a href="https://twitter.com/mirutover" target="_blank" class="tw">twitter</a>  
+<a href="https://www.facebook.com/takahiro.yamakoshi" target="_blank" class="fb">facebook</a>  
 
-### _Main Session3_ セッションタイトル入る
+### _Main Session3_ テーマ:Sass/Compass
 
-Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:
+（決まり次第お知らせします）
 
-![Qiita](http://placekitten.com/g/200/150 "Qiita")
-: **佐々木 敏明（ささき としあき）**  Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:  
-<a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a>  
-<a href="https://twitter.com/cipher" target="_blank" class="fb">facebook</a>
+![Qiita]({{ ASSET_PATH }}twitter/images/sasaki.png "Qiita")
+: **佐々木 敏明（ささき としあき）**  株式会社オールコネクト Webデザイナー  
+1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。最近はフロントエンド関係に関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。  
+<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a>  
+<a href="https://twitter.com/shirokuro331" target="_blank" class="fb">facebook</a>
 
-### _Lightning Talk1_ セッションタイトル入る
+### _Lightning Talk1_ テーマ:Heshiko
 
-Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:
+（決まり次第お知らせします）
 
-![Qiita](http://placekitten.com/g/200/150 "Qiita")
-: **いちがみ トモロヲ**  Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:  
-<a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a>  
-<a href="https://twitter.com/cipher" target="_blank" class="fb">facebook</a>
+![Qiita]({{ ASSET_PATH }}twitter/images/heshiko.png "Qiita")
+: **いちがみ トモロヲ**  [15VISION](http://15vision.jp/) 代表。Webディレクション、Webデザインを中心に活動しており、研修講師やテクニカルライティングなども行っている。近著に[『すべての人に知っておいてほしい スマートフォンサイトデザインの基本原則』](http://www.amazon.co.jp/dp/4844362844/)（寄稿）がある。石川県のWeb制作コミュニティ「[WDF](http://wdf.jp/)」、UXコミュニティ「[UX Kanazawa](http://uxkanazawa.15vision.jp/)」をという2つのセミナーイベントを運営している。  
+<a href="https://twitter.com/ichigami" target="_blank" class="tw">twitter</a>  
+<a href="https://www.facebook.com/tomooichigami" target="_blank" class="fb">facebook</a>
+<a href="http://15vision.jp/mobile/note/" target="_blank" class="blog">blog</a>
 
-### _Lightning Talk2_ セッションタイトル入る
+### _Lightning Talk2_ テーマ:Megane
 
-Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:
+（決まり次第お知らせします）
 
-![Qiita](http://placekitten.com/g/200/150 "Qiita")
-: **堀川 裕司（ほりかわ ゆうじ）**  Skeleton is a small collection of CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. Skeleton is built on three core principles:  
-<a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a>  
-<a href="https://twitter.com/cipher" target="_blank" class="fb">facebook</a>
+![Qiita]({{ ASSET_PATH }}twitter/images/horikawa.png "Qiita")
+: **堀川 裕司（ほりかわ ゆうじ）**  株式会社オールコネクト Webデザイナー  
+1985年福井生まれ。メガネ業界にて企画?デザインに携わり、昨年3月に同社Webデザイナーへと転身。  
+不況真っ只中のメガネ業界を経験したこともあり、「どうすればモノは売れるのか？」ということに強く興味を持つ。趣味が多く、スポーツ、アウトドア(自宅にピザ窯を所有)、音楽と幅広く活動中。 
+<a href="https://www.facebook.com/yuji.horikawa.5" target="_blank" class="fb">facebook</a>
 
 
 ## タイムテーブル
@@ -78,11 +81,7 @@ Skeleton is a small collection of CSS files that can help you rapidly develop si
 --------|------
 13:00    |   開場
 13:20    |   オープニング
-13:30    |   セッション1
-14:20    |   セッション2
-15:10    |   LT1
-15:20    |   LT2
-15:40    |   セッション3
+13:30    |   イベントスタート
 17:10    |   エンディング
 18:30    |   懇親会
 
