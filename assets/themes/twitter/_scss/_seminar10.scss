@@ -2,8 +2,11 @@
 	 font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
 	background: url(../images/bg.png) repeat 0 0;
 h1,h2,h3{
-	font-family: "Georgia", "Times New Roman", serif;
+	font-family: "Georgia", "ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", "Times New Roman", serif;
 	color: #000;
+}
+a{
+	color: #0084b4;
 }
 a{
 	color: #0084b4;
@@ -60,13 +63,14 @@ nav{
 	a{
 		text-decoration: none;
 		border-bottom: #999 1px dotted;
+		&:hover{
+			border: none;
+		}
 	}
 	h2{
 		margin: 50px 0 20px;
 		font-size: 28px;
 		font-weight: bold;
-		
-
 	}
 	h3{
 		font-size: 21px;

@@ -4,9 +4,6 @@
 <!--[if IE 8 ]><html class="ie ie8" lang="ja"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="ja"> <!--<![endif]-->
 <head>
-
-  <!-- Basic Page Needs
-  ================================================== -->
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
@@ -23,13 +20,13 @@
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-
+  
   <div id="fb-root"></div>
   <script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
     if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
     js.async = true;
+    js = d.createElement(s); js.id = id;
     js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=289074957858726";
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
@@ -88,7 +85,7 @@
             </script>
           </li>
           <li class="facebook">
-            <div class="fb-like" data-send="false" data-width="100" data-show-faces="false"></div>
+            <div class="fb-like" data-send="false" data-width="450" data-show-faces="false"></div>
           </li>
         </ul>
       </aside>
