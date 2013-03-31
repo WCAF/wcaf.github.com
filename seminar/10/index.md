@@ -1,7 +1,7 @@
 ---
 layout: seminar10
-title: "Index"
-description: ""
+title: "WCAF vol.10 「Web Designing for The Future」（2013年5月18日開催）"
+description: "今回のテーマは「未来を見据えたWeb制作」です。変化する Web 制作の考え方や制作手法について、深く知りたい方、学びたい方はぜひご参加ください。"
 ---
 {% include JB/setup %}
 
@@ -10,7 +10,7 @@ description: ""
 WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっている人たちの勉強会コミュニティです。今回は「これからの Web 制作について」をテーマにセミナーイベントを開催します。  
 昨今、さまざまなデバイスが発売され、従来のいわゆる Web 制作におけるワークフローや制作手法が変わりつつあります。変化する Web 制作の考え方や制作手法について、深く知りたい方、学びたい方はぜひご参加ください。
 
-## セミナー概要
+<h2 id="info">セミナー概要</h2>
 
 イベント名    |   WCAF Vol.10 「未来を見据えたWeb制作」
 --------|------
@@ -21,68 +21,81 @@ WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっ�
 Twitter ハッシュタグ    |   #wcaf
 懇親会    |   会場が決まり次第お知らせします
 主催    |   WCAF（Web Creator Association Fukui）
+参加申し込み    |   [参加申込みはコチラ](http://kokucheese.com/event/index/82925/)
 お問い合わせ    |   [@_wcaf](https://twitter.com/_wcaf)、または wcafstaff(at)gmail.com までお気軽にどうぞ
 
-## セッション&amp;スピーカー情報
+<h2 id="session">セッション&amp;スピーカー情報</h2>
 
 ### _Main Session1_ テーマ:レスポンシブウェブデザイン
 
-（決まり次第お知らせします）
+（セッション概要は決まり次第お知らせします）
 
-![Qiita]({{ ASSET_PATH }}twitter/images/cipher.png "Qiita")
+![Qiita]({{ ASSET_PATH }}twitter/images/cipher.jpg "Qiita")
 : **こもりまさあき**  1972年生まれ、フリーランス。1990年代前半に都内のDTP系デザイン会社にてアルバイトをはじめる。大学卒業後そのまま正社員となり、入出力業務、デザイン業務、ネットワーク関連業務に並行して従事。2001年、会社を退職しそのままフリーランスの道へ。案件ごとに業務内容や立ち位置が異なるため、職域的な肩書きはなし。「次の10年を生き抜くためにどうすればいいか」を日々模索中。  
-<a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a>  
-<a href="https://www.facebook.com/gaspanik" target="_blank" class="fb">facebook</a>   
+<ul>
+  <li><a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a></li>
+  <li><a href="https://www.facebook.com/gaspanik" target="_blank" class="fb">facebook</a></li>
+</ul>  
 
 ### _Main Session2_ テーマ:JavaScript
 
-（決まり次第お知らせします）
+（セッション概要は決まり次第お知らせします）
 
-![Qiita]({{ ASSET_PATH }}twitter/images/ikachan.png "Qiita")
-: **山越 崇裕（やまこし たかひろ）**  アプリ開発が花型な会社でサーバ開発やHTMLマークアップを担当するエンジニア。サーバもフロントも卒なくこなす人材目指して勉強中。JAWS-UG 福井の副主催者としても活動中。    
-<a href="https://twitter.com/mirutover" target="_blank" class="tw">twitter</a>  
-<a href="https://www.facebook.com/takahiro.yamakoshi" target="_blank" class="fb">facebook</a>  
-
+![Qiita]({{ ASSET_PATH }}twitter/images/ikachan.jpg "Qiita")
+: **山越 崇裕（やまこし たかひろ）**  アプリ開発が花型な会社でサーバ開発やHTMLマークアップを担当するエンジニア。サーバもフロントも卒なくこなす人材目指して勉強中。JAWS-UG 福井の副主催者としても活動中。
+<ul>
+  <li><a href="https://twitter.com/mirutover" target="_blank" class="tw">twitter</a></li>
+  <li><a href="https://www.facebook.com/takahiro.yamakoshi" target="_blank" class="fb">facebook</a></li>
+</ul>    
+  
 ### _Main Session3_ テーマ:Sass/Compass
 
-（決まり次第お知らせします）
+（セッション概要は決まり次第お知らせします）
 
-![Qiita]({{ ASSET_PATH }}twitter/images/sasaki.png "Qiita")
+![Qiita]({{ ASSET_PATH }}twitter/images/sasasa.jpg "Qiita")
 : **佐々木 敏明（ささき としあき）**  株式会社オールコネクト Webデザイナー  
-1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。最近はフロントエンド関係に関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。  
-<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a>  
-<a href="https://twitter.com/shirokuro331" target="_blank" class="fb">facebook</a>
+1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。最近はフロントエンド関係に関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。
+<ul>
+  <li><a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a></li>
+  <li><a href="https://twitter.com/shirokuro331" target="_blank" class="fb">facebook</a></li>
+</ul>  
 
-### _Lightning Talk1_ テーマ:Heshiko
 
-（決まり次第お知らせします）
 
-![Qiita]({{ ASSET_PATH }}twitter/images/heshiko.png "Qiita")
+### _Lightning Talk1_ テーマ:未定
+
+（セッション概要は決まり次第お知らせします）
+
+![Qiita]({{ ASSET_PATH }}twitter/images/heshiko.jpg "Qiita")
 : **いちがみ トモロヲ**  [15VISION](http://15vision.jp/) 代表。Webディレクション、Webデザインを中心に活動しており、研修講師やテクニカルライティングなども行っている。近著に[『すべての人に知っておいてほしい スマートフォンサイトデザインの基本原則』](http://www.amazon.co.jp/dp/4844362844/)（寄稿）がある。石川県のWeb制作コミュニティ「[WDF](http://wdf.jp/)」、UXコミュニティ「[UX Kanazawa](http://uxkanazawa.15vision.jp/)」をという2つのセミナーイベントを運営している。  
-<a href="https://twitter.com/ichigami" target="_blank" class="tw">twitter</a>  
-<a href="https://www.facebook.com/tomooichigami" target="_blank" class="fb">facebook</a>
-<a href="http://15vision.jp/mobile/note/" target="_blank" class="blog">blog</a>
+<ul>
+  <li><a href="https://twitter.com/ichigami" target="_blank">Twitter</a></li>
+  <li><a href="https://www.facebook.com/tomooichigami" target="_blank">Facebook</a></li>
+</ul>
 
-### _Lightning Talk2_ テーマ:Megane
+### _Lightning Talk2_ テーマ:未定
 
-（決まり次第お知らせします）
+（セッション概要は決まり次第お知らせします）
 
-![Qiita]({{ ASSET_PATH }}twitter/images/horikawa.png "Qiita")
+![Qiita]({{ ASSET_PATH }}twitter/images/horikawa.jpg "Qiita")
 : **堀川 裕司（ほりかわ ゆうじ）**  株式会社オールコネクト Webデザイナー  
-1985年福井生まれ。メガネ業界にて企画?デザインに携わり、昨年3月に同社Webデザイナーへと転身。  
+1985年福井生まれ。メガネ業界にて企画・デザインに携わり、昨年3月に同社Webデザイナーへと転身。  
 不況真っ只中のメガネ業界を経験したこともあり、「どうすればモノは売れるのか？」ということに強く興味を持つ。趣味が多く、スポーツ、アウトドア(自宅にピザ窯を所有)、音楽と幅広く活動中。 
-<a href="https://www.facebook.com/yuji.horikawa.5" target="_blank" class="fb">facebook</a>
+<ul>
+  <li><a href="https://www.facebook.com/yuji.horikawa.5" target="_blank" class="fb">facebook</a></li>
+</ul>
 
 
-## タイムテーブル
+
+<h2 id="timetable">タイムテーブル</h2>
 
 
 時間    |   内容
 --------|------
 13:00    |   開場
 13:20    |   オープニング
-13:30    |   イベントスタート
+13:30    |   イベントスタート（順番調整中）
 17:10    |   エンディング
-18:30    |   懇親会
+18:00    |   懇親会
 
-タイムテーブルはあくまでも目安であり、当日の流れによって、調整しながら進行します。
+<p class="note">タイムテーブルはあくまでも目安であり、当日の流れによって、調整しながら進行します。</p>
