@@ -823,7 +823,8 @@ or wrap each row of columns in a <div class="row"> */
 
 #seminar10 {
   font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
-  background: url(../images/bg.png) repeat 0 0; }
+  background: url(../images/bg.png) repeat 0 0;
+  color: #000; }
   #seminar10 h1, #seminar10 h2, #seminar10 h3 {
     font-family: "Georgia", "ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", "Times New Roman", serif;
     color: #000; }
@@ -993,7 +994,9 @@ or wrap each row of columns in a <div class="row"> */
         #seminar10 .content dl dd strong {
           display: block;
           margin-bottom: 10px;
-          font-size: 16px; } }
+          font-size: 16px; }
+  #seminar10 .sidebar aside {
+    width: 200px; } }
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
   #seminar10 h1 {
