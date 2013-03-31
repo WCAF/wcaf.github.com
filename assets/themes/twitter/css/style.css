@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*
 * Skeleton V1.2
 * Copyright 2011, Dave Gamache
@@ -131,7 +132,7 @@ blockquote, blockquote p {
 blockquote {
   margin: 0 0 20px;
   padding: 9px 20px 0 19px;
-  border-left: 1px solid #dddddd; }
+  border-left: 1px solid #ddd; }
 
 blockquote cite {
   display: block;
@@ -145,7 +146,7 @@ blockquote cite a, blockquote cite a:visited, blockquote cite a:visited {
   color: #555; }
 
 hr {
-  border: solid #dddddd;
+  border: solid #ddd;
   border-width: 1px 0 0;
   clear: both;
   margin: 10px 0 30px;
@@ -233,9 +234,9 @@ input[type="button"] {
   /* IE10+ */
   background: #eeeeee linear-gradient(top, rgba(255, 255, 255, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%);
   /* W3C */
-  border: 1px solid #aaaaaa;
-  border-top: 1px solid #cccccc;
-  border-left: 1px solid #cccccc;
+  border: 1px solid #aaa;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
@@ -271,16 +272,16 @@ input[type="button"]:hover {
   /* IE10+ */
   background: #dddddd linear-gradient(top, rgba(255, 255, 255, 0.3) 0%, rgba(0, 0, 0, 0.3) 100%);
   /* W3C */
-  border: 1px solid #888888;
-  border-top: 1px solid #aaaaaa;
-  border-left: 1px solid #aaaaaa; }
+  border: 1px solid #888;
+  border-top: 1px solid #aaa;
+  border-left: 1px solid #aaa; }
 
 .button:active,
 button:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
-  border: 1px solid #666666;
+  border: 1px solid #666;
   background: #ccc;
   /* Old browsers */
   background: #cccccc -moz-linear-gradient(top, rgba(255, 255, 255, 0.35) 0%, rgba(10, 10, 10, 0.4) 100%);
@@ -325,7 +326,7 @@ input[type="password"],
 input[type="email"],
 textarea,
 select {
-  border: 1px solid #cccccc;
+  border: 1px solid #ccc;
   padding: 6px 4px;
   outline: none;
   -moz-border-radius: 2px;
@@ -347,7 +348,7 @@ input[type="text"]:focus,
 input[type="password"]:focus,
 input[type="email"]:focus,
 textarea:focus {
-  border: 1px solid #aaaaaa;
+  border: 1px solid #aaa;
   color: #444;
   -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
@@ -837,12 +838,12 @@ or wrap each row of columns in a <div class="row"> */
     #seminar10 header h1 {
       margin-bottom: 40px;
       text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.1);
-      font-family: "Mr Dafoe", cursive;
+      font-family: 'Mr Dafoe', cursive;
       font-size: 80px;
       font-weight: normal;
       text-align: center; }
     #seminar10 header h2 {
-      font-family: "Mr Dafoe", cursive;
+      font-family: 'Mr Dafoe', cursive;
       font-size: 26px;
       text-align: center;
       letter-spacing: 0.2em; }
@@ -863,7 +864,7 @@ or wrap each row of columns in a <div class="row"> */
       color: #000; }
   #seminar10 .content a {
     text-decoration: none;
-    border-bottom: #999999 1px dotted; }
+    border-bottom: #999 1px dotted; }
     #seminar10 .content a:hover {
       border: none; }
   #seminar10 .content h2 {
@@ -881,7 +882,7 @@ or wrap each row of columns in a <div class="row"> */
     font-weight: bold; }
   #seminar10 .content table {
     width: 100%;
-    border: #cccccc 1px solid;
+    border: #ccc 1px solid;
     border-radius: 4px; }
     #seminar10 .content table tr.odd td {
       background: #f3f3f3; }
@@ -889,12 +890,15 @@ or wrap each row of columns in a <div class="row"> */
       background: #fff;
       padding: 5px 10px;
       font-weight: bold;
-      border: #cccccc 1px solid;
+      border: #ccc 1px solid;
       text-align: left; }
     #seminar10 .content table tr td {
       background: #fff;
       padding: 5px 10px;
-      border: #cccccc 1px solid; }
+      border: #ccc 1px solid; }
+      #seminar10 .content table tr td span {
+        display: block;
+        font-size: 12px; }
   #seminar10 .content dl {
     margin-bottom: 30px; }
     #seminar10 .content dl dt {
@@ -971,7 +975,7 @@ or wrap each row of columns in a <div class="row"> */
         background-image: -moz-linear-gradient(#f8f8f8, #dddddd);
         background-image: -o-linear-gradient(#f8f8f8, #dddddd);
         background-image: linear-gradient(#f8f8f8, #dddddd);
-        border: #cccccc 1px solid;
+        border: #ccc 1px solid;
         -webkit-border-radius: 4px;
         -moz-border-radius: 4px;
         border-radius: 4px;
@@ -1014,7 +1018,7 @@ or wrap each row of columns in a <div class="row"> */
         background-image: -moz-linear-gradient(#f8f8f8, #dddddd);
         background-image: -o-linear-gradient(#f8f8f8, #dddddd);
         background-image: linear-gradient(#f8f8f8, #dddddd);
-        border: #cccccc 1px solid;
+        border: #ccc 1px solid;
         -webkit-border-radius: 4px;
         -moz-border-radius: 4px;
         border-radius: 4px;

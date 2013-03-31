@@ -825,8 +825,10 @@ or wrap each row of columns in a <div class="row"> */
   font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   background: url(../images/bg.png) repeat 0 0; }
   #seminar10 h1, #seminar10 h2, #seminar10 h3 {
-    font-family: "Georgia", "Times New Roman", serif;
+    font-family: "Georgia", "ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", "Times New Roman", serif;
     color: #000; }
+  #seminar10 a {
+    color: #0084b4; }
   #seminar10 a {
     color: #0084b4; }
   #seminar10 #container {
@@ -863,6 +865,8 @@ or wrap each row of columns in a <div class="row"> */
   #seminar10 .content a {
     text-decoration: none;
     border-bottom: #999 1px dotted; }
+    #seminar10 .content a:hover {
+      border: none; }
   #seminar10 .content h2 {
     margin: 50px 0 20px;
     font-size: 28px;
@@ -892,6 +896,9 @@ or wrap each row of columns in a <div class="row"> */
       background: #fff;
       padding: 5px 10px;
       border: #ccc 1px solid; }
+      #seminar10 .content table tr td span {
+        display: block;
+        font-size: 12px; }
   #seminar10 .content dl {
     margin-bottom: 30px; }
     #seminar10 .content dl dt {

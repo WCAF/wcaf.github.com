@@ -15,11 +15,11 @@ WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっ�
 イベント名    |   WCAF Vol.10 「未来を見据えたWeb制作」
 --------|------
 開催日    |   2013年5月18日（土） 13:00〜17:00
-会場    |   株式会社 永和システムマネジメント [▶map](https://maps.google.co.jp/maps?q=+%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA3-111&hl=ja&ie=UTF8&ll=36.059299,136.250038&spn=0.01804,0.031285&sll=34.728949,138.455511&sspn=37.195449,64.072266&hnear=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&t=m&z=15&iwloc=r0&brcurrent=3,0x5ff8beaf3b742b4f:0xa41b1476580dbbbd,0)
+会場    |   株式会社 永和システムマネジメント [map](https://maps.google.co.jp/maps?q=+%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA3-111&hl=ja&ie=UTF8&ll=36.059299,136.250038&spn=0.01804,0.031285&sll=34.728949,138.455511&sspn=37.195449,64.072266&hnear=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&t=m&z=15&iwloc=r0&brcurrent=3,0x5ff8beaf3b742b4f:0xa41b1476580dbbbd,0)  <span>〒918-8231 福井県福井市問屋町3丁目111番地</span> 
 定員    |   40人
 参加費    |   2,000円
 Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
-懇親会    |   [目からうろこ 福井駅前本店](http://tabelog.com/fukui/A1801/A180101/18004460/)
+懇親会    |   [目からうろこ 福井駅前本店](http://tabelog.com/fukui/A1801/A180101/18004460/)（予算は4,000円前後を想定）
 主催    |   WCAF（Web Creator Association Fukui）
 参加申し込み    |   [参加申込みはコチラ](http://kokucheese.com/event/index/82925/)
 お問い合わせ    |   [@_wcaf](https://twitter.com/_wcaf)、または wcafstaff(at)gmail.com までお気軽にどうぞ
@@ -55,7 +55,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/sasasa.jpg "Qiita")
 : **佐々木 敏明（ささき としあき）**  株式会社オールコネクト Webデザイナー  
-1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。最近はフロントエンド関係に関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。
+1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。Web インターフェースをつくるものすべてに関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。
 <ul>
   <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a></li>
   <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="fb">facebook</a></li>
