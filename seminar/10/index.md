@@ -19,7 +19,7 @@ WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっ�
 定員    |   40人
 参加費    |   2,000円
 Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
-懇親会    |   [目からうろこ 福井駅前本店](http://tabelog.com/fukui/A1801/A180101/18004460/)（予算は4,000円前後を想定）
+懇親会    |   [目からうろこ 福井駅前本店](http://tabelog.com/fukui/A1801/A180101/18004460/)<span>（予算は4,000円前後を想定）</span> 
 主催    |   WCAF（Web Creator Association Fukui）
 参加申し込み    |   [参加申込みはコチラ](http://kokucheese.com/event/index/82925/)
 お問い合わせ    |   [@_wcaf](https://twitter.com/_wcaf)、または wcafstaff(at)gmail.com までお気軽にどうぞ
