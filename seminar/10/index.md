@@ -58,7 +58,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。Web インターフェースをつくるものすべてに関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。
 <ul>
   <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a></li>
-  <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="fb">facebook</a></li>
+  <li>・<a href="https://www.facebook.com/shirokuro331" target="_blank" class="fb">facebook</a></li>
 </ul>  
 
 
@@ -70,7 +70,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 ![Qiita]({{ ASSET_PATH }}twitter/images/heshiko.jpg "Qiita")
 : **いちがみ トモロヲ**  [15VISION](http://15vision.jp/) 代表。Webディレクション、Webデザインを中心に活動しており、研修講師やテクニカルライティングなども行っている。近著に[『すべての人に知っておいてほしい スマートフォンサイトデザインの基本原則』](http://www.amazon.co.jp/dp/4844362844/)（寄稿）がある。石川県のWeb制作コミュニティ「[WDF](http://wdf.jp/)」、UXコミュニティ「[UX Kanazawa](http://uxkanazawa.15vision.jp/)」をという2つのセミナーイベントを運営している。  
 <ul>
-  <li>・<a href="https://twitter.com/ichigami" target="_blank">Twitter</a></li>
+  <li>・<a href="https://twitter.com/ichigami" target="_blank">twitter</a></li>
   <li>・<a href="https://www.facebook.com/tomooichigami" target="_blank">Facebook</a></li>
 </ul>
 
