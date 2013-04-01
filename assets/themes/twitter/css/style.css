@@ -937,7 +937,8 @@ or wrap each row of columns in a <div class="row"> */
     #seminar10 footer p {
       margin: 0; }
     #seminar10 footer a {
-      color: #fff; }
+      color: #fff;
+      text-decoration: none; }
 
 /* #Media Queries
 ================================================== */

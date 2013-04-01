@@ -20,7 +20,7 @@ WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっ�
 参加費    |   2,000円
 Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 懇親会    |   [目からうろこ 福井駅前本店](http://tabelog.com/fukui/A1801/A180101/18004460/)<span>（予算は4,000円前後を想定）</span> 
-主催    |   WCAF（Web Creator Association Fukui）
+主催    |   [WCAF（Web Creator Association Fukui）](http://www.wcaf.jp/)
 参加申し込み    |   [参加申込みはコチラ](http://kokucheese.com/event/index/82925/)
 お問い合わせ    |   [@_wcaf](https://twitter.com/_wcaf)、または wcafstaff(at)gmail.com までお気軽にどうぞ
 
@@ -42,7 +42,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 （セッション概要は決まり次第お知らせします）
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/ikachan.jpg "Qiita")
-: **山越 崇裕（やまこし たかひろ）**  株式会社 jig.jp エンジニア  
+: **山越 崇裕（やまこし たかひろ）**  [株式会社 jig.jp](http://jig.jp/) エンジニア  
 アプリ開発が花型な会社でサーバ開発やHTMLマークアップを担当するエンジニア。サーバもフロントも卒なくこなす人材目指して勉強中。JAWS-UG 福井の副主催者としても活動中。
 <ul>
   <li>・<a href="https://twitter.com/mirutover" target="_blank" class="tw">twitter</a></li>
@@ -54,7 +54,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 （セッション概要は決まり次第お知らせします）
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/sasasa.jpg "Qiita")
-: **佐々木 敏明（ささき としあき）**  株式会社オールコネクト Webデザイナー  
+: **佐々木 敏明（ささき としあき）**  [株式会社オールコネクト](http://www.all-connect.jp/) Webデザイナー  
 1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。Web インターフェースをつくるものすべてに関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。
 <ul>
   <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a></li>
@@ -79,7 +79,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 （セッション概要は決まり次第お知らせします）
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/horikawa.jpg "Qiita")
-: **堀川 裕司（ほりかわ ゆうじ）**  株式会社オールコネクト Webデザイナー  
+: **堀川 裕司（ほりかわ ゆうじ）**  [株式会社オールコネクト](http://www.all-connect.jp/) Webデザイナー  
 1985年福井生まれ。メガネ業界にて企画・デザインに携わり、昨年3月に同社Webデザイナーへと転身。  
 不況真っ只中のメガネ業界を経験したこともあり、「どうすればモノは売れるのか？」ということに強く興味を持つ。趣味が多く、スポーツ、アウトドア(自宅にピザ窯を所有)、音楽と幅広く活動中。 
 <ul>
