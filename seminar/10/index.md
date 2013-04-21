@@ -26,15 +26,15 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 
 <h2 id="session">セッション&amp;スピーカー情報</h2>
 
-### _Main Session1_ 「Web design process for the future」
+### _Main Session1_ 「Web design process for the future」 90min
 
 Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフェクトを追い求めたWebデザインプロセスはいつまで成立するのでしょうか。本セッションでは、Responsive Web Designの最新事例や技法を取りあげながら、次世代のWebデザインプロセスへのステップアップするために必要な考え方やその方法を紹介します。
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/cipher.jpg "Qiita")
 : **こもりまさあき**  1972年生まれ、フリーランス。1990年代前半に都内のDTP系デザイン会社にてアルバイトをはじめる。大学卒業後そのまま正社員となり、入出力業務、デザイン業務、ネットワーク関連業務に並行して従事。2001年、会社を退職しそのままフリーランスの道へ。案件ごとに業務内容や立ち位置が異なるため、職域的な肩書きはなし。「次の10年を生き抜くためにどうすればいいか」を日々模索中。  
 <ul>
-  <li>・<a href="https://twitter.com/cipher" target="_blank" class="tw">twitter</a></li>
-  <li>・<a href="https://www.facebook.com/gaspanik" target="_blank" class="fb">facebook</a></li>
+  <li>・<a href="https://twitter.com/cipher" target="_blank" class="tw">Twitter</a></li>
+  <li>・<a href="https://www.facebook.com/gaspanik" target="_blank" class="fb">Facebook</a></li>
 </ul>  
 
 ### _Main Session2_ テーマ:JavaScript
@@ -45,8 +45,8 @@ Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフ�
 : **山越 崇裕（やまこし たかひろ）**  [株式会社 jig.jp](http://jig.jp/) エンジニア  
 アプリ開発が花型な会社でサーバ開発やHTMLマークアップを担当するエンジニア。サーバもフロントも卒なくこなす人材目指して勉強中。JAWS-UG 福井の副主催者としても活動中。
 <ul>
-  <li>・<a href="https://twitter.com/mirutover" target="_blank" class="tw">twitter</a></li>
-  <li>・<a href="https://www.facebook.com/takahiro.yamakoshi" target="_blank" class="fb">facebook</a></li>
+  <li>・<a href="https://twitter.com/mirutover" target="_blank" class="tw">Twitter</a></li>
+  <li>・<a href="https://www.facebook.com/takahiro.yamakoshi" target="_blank" class="fb">Facebook</a></li>
 </ul>    
   
 ### _Main Session3_ テーマ:Sass/Compass
@@ -57,8 +57,8 @@ Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフ�
 : **佐々木 敏明（ささき としあき）**  [株式会社オールコネクト](http://www.all-connect.jp/) Webデザイナー  
 1981年生まれの福井で働くWebデザイナー。主な業務はWebサイトのディレクション・デザイン・制作体制管理などを担当。Web インターフェースをつくるものすべてに関心があり、いろいろと勉強中。社外の活動としてWCAFの主宰などを行なっている。
 <ul>
-  <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">twitter</a></li>
-  <li>・<a href="https://www.facebook.com/shirokuro331" target="_blank" class="fb">facebook</a></li>
+  <li>・<a href="https://twitter.com/shirokuro331" target="_blank" class="tw">Twitter</a></li>
+  <li>・<a href="https://www.facebook.com/shirokuro331" target="_blank" class="fb">Facebook</a></li>
 </ul>  
 
 
@@ -70,7 +70,7 @@ Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフ�
 ![Qiita]({{ ASSET_PATH }}twitter/images/heshiko.jpg "Qiita")
 : **いちがみ トモロヲ**  [15VISION](http://15vision.jp/) 代表。Webディレクション、Webデザインを中心に活動しており、研修講師やテクニカルライティングなども行っている。近著に[『すべての人に知っておいてほしい スマートフォンサイトデザインの基本原則』](http://www.amazon.co.jp/dp/4844362844/)（寄稿）がある。石川県のWeb制作コミュニティ「[WDF](http://wdf.jp/)」、UXコミュニティ「[UX Kanazawa](http://uxkanazawa.15vision.jp/)」をという2つのセミナーイベントを運営している。  
 <ul>
-  <li>・<a href="https://twitter.com/ichigami" target="_blank">twitter</a></li>
+  <li>・<a href="https://twitter.com/ichigami" target="_blank">Twitter</a></li>
   <li>・<a href="https://www.facebook.com/tomooichigami" target="_blank">Facebook</a></li>
 </ul>
 
@@ -83,7 +83,7 @@ Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフ�
 1985年福井生まれ。メガネ業界にて企画・デザインに携わり、昨年3月に同社Webデザイナーへと転身。  
 不況真っ只中のメガネ業界を経験したこともあり、「どうすればモノは売れるのか？」ということに強く興味を持つ。趣味が多く、スポーツ、アウトドア(自宅にピザ窯を所有)、音楽と幅広く活動中。 
 <ul>
-  <li>・<a href="https://www.facebook.com/yuji.horikawa.5" target="_blank" class="fb">facebook</a></li>
+  <li>・<a href="https://www.facebook.com/yuji.horikawa.5" target="_blank" class="fb">Facebook</a></li>
 </ul>
 
 
