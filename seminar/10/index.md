@@ -26,7 +26,7 @@ Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 
 <h2 id="session">セッション&amp;スピーカー情報</h2>
 
-### _Main Session1_ 「Web design process for the future」 90min
+### _Main Session1_ 「Web design process for the future」
 
 Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフェクトを追い求めたWebデザインプロセスはいつまで成立するのでしょうか。本セッションでは、Responsive Web Designの最新事例や技法を取りあげながら、次世代のWebデザインプロセスへのステップアップするために必要な考え方やその方法を紹介します。
 
@@ -37,9 +37,10 @@ Webの閲覧環境の多様化が進む昨今、従来のピクセルパーフ�
   <li>・<a href="https://www.facebook.com/gaspanik" target="_blank" class="fb">Facebook</a></li>
 </ul>  
 
-### _Main Session2_ テーマ:JavaScript
+### _Main Session2_ 「big wave node」
 
-（セッション概要は決まり次第お知らせします）
+node は大きな波となりました。サーバーサイド JavaScript の 1 実装としてはもちろん、これまで JavaScript の世界ではそれほど取り上げられてこなかったパッケージ管理や CLI のツール等にまで、その波は及んでいます。  
+本セッションでは、今すぐ使えるツールのご紹介やサーバサイドの事始めを交えつつ、今 JavaScript だけでどこまで出来るようになったのかをお伝えしたいと思います。
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/ikachan.jpg "Qiita")
 : **山越 崇裕（やまこし たかひろ）**  [株式会社 jig.jp](http://jig.jp/) エンジニア  
