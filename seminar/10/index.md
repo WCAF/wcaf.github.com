@@ -50,9 +50,10 @@ node は大きな波となりました。サーバーサイド JavaScript の 1 
   <li>・<a href="https://www.facebook.com/takahiro.yamakoshi" target="_blank" class="fb">Facebook</a></li>
 </ul>    
   
-### _Main Session3_ テーマ:Sass/Compass
+### _Main Session3_ 「Sassと仲良くお付き合い」
 
-（セッション概要は決まり次第お知らせします）
+CSSの新たな書き方として、近年話題のSassなどのCSSプリプロセッサーですが、みなさんはどのようにお付き合いされてますでしょうか？  
+本セッションでは、私なりのSass(scss)/Compassに関する制作環境や実務で得たノウハウなどをいくつか共有できればと思います。
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/sasasa.jpg "Qiita")
 : **佐々木 敏明（ささき としあき）**  [株式会社オールコネクト](http://www.all-connect.jp/) Webデザイナー  
