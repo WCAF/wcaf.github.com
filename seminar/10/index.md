@@ -65,9 +65,9 @@ CSSの新たな書き方として、近年話題のSassなどのCSSプリプロ�
 
 
 
-### _Lightning Talk1_ テーマ:未定
+### _Lightning Talk1_ 4番ファースト運用設計
 
-（セッション概要は決まり次第お知らせします）
+企業における Web サイトの役割りが変化し、中長期的な視点で Web サイト運用を考えることがますます重要になりました。制作者はクライアントのビジネスとその課題を理解し、Web サイトの目標を共有した上で、運用体制を制作初期段階で設計する必要があると考えます。と、そんなことをお話します。
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/heshiko.jpg "Qiita")
 : **いちがみ トモロヲ**  [15VISION](http://15vision.jp/) 代表。Webディレクション、Webデザインを中心に活動しており、研修講師やテクニカルライティングなども行っている。近著に[『すべての人に知っておいてほしい スマートフォンサイトデザインの基本原則』](http://www.amazon.co.jp/dp/4844362844/)（寄稿）がある。石川県のWeb制作コミュニティ「[WDF](http://wdf.jp/)」、UXコミュニティ「[UX Kanazawa](http://uxkanazawa.15vision.jp/)」をという2つのセミナーイベントを運営している。  
@@ -76,9 +76,9 @@ CSSの新たな書き方として、近年話題のSassなどのCSSプリプロ�
   <li>・<a href="https://www.facebook.com/tomooichigami" target="_blank">Facebook</a></li>
 </ul>
 
-### _Lightning Talk2_ テーマ:未定
+### _Lightning Talk2_ Webサイト最適化への挑戦
 
-（セッション概要は決まり次第お知らせします）
+Webデザイナーとして転職後、主な業務として担当サイトの改善というものに日々取り組んでいます。Webサイトを取り巻く状況が日々変わる中、試行錯誤を繰り返してきた体験や感想などを本セッションでお伝えできればと思います。
 
 ![Qiita]({{ ASSET_PATH }}twitter/images/horikawa.jpg "Qiita")
 : **堀川 裕司（ほりかわ ゆうじ）**  [株式会社オールコネクト](http://www.all-connect.jp/) Webデザイナー  
