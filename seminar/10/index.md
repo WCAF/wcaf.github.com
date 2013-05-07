@@ -15,13 +15,14 @@ WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっ�
 イベント名    |   WCAF Vol.10 「未来を見据えたWeb制作」
 --------|------
 開催日    |   2013年5月18日（土） 13:00〜17:00
-会場    |   株式会社 永和システムマネジメント [map](https://maps.google.co.jp/maps?q=+%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA3-111&hl=ja&ie=UTF8&ll=36.059299,136.250038&spn=0.01804,0.031285&sll=34.728949,138.455511&sspn=37.195449,64.072266&hnear=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&t=m&z=15&iwloc=r0&brcurrent=3,0x5ff8beaf3b742b4f:0xa41b1476580dbbbd,0)  <span>〒918-8231 福井県福井市問屋町3丁目111番地</span> 
+会場    |   株式会社 永和システムマネジメント [map](https://maps.google.co.jp/maps?q=+%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA3-111&hl=ja&ie=UTF8&ll=36.059299,136.250038&spn=0.01804,0.031285&sll=34.728949,138.455511&sspn=37.195449,64.072266&hnear=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&t=m&z=15&iwloc=r0&brcurrent=3,0x5ff8beaf3b742b4f:0xa41b1476580dbbbd,0)  <span>〒918-8231 福井県福井市問屋町3丁目111番地</span>  <span>※建物裏に駐車場がありますのでお車でお越しいただけます。</span> 
 定員    |   40人
 参加費    |   2,000円
 Twitter ハッシュタグ    |   [#wcaf](https://twitter.com/search?q=%23wcaf)
 懇親会    |   [目からうろこ 福井駅前本店](http://tabelog.com/fukui/A1801/A180101/18004460/)<span>（予算は4,000円前後を想定）</span> 
 主催    |   [WCAF（Web Creator Association Fukui）](http://www.wcaf.jp/)
 参加申し込み    |   [参加申込みはコチラ](http://kokucheese.com/event/index/82925/)
+アクセス    |   <span>JR線：福井駅(東口)より車で10分</span><span>京福バス：「和田東」停留所下車徒歩10分  （「福井駅前」停留所9番のりば 55系統 済生会病院経由大野行）</span><span>北陸自動車道：福井ICから車で10分</span>
 お問い合わせ    |   [@_wcaf](https://twitter.com/_wcaf)、または wcafstaff(at)gmail.com までお気軽にどうぞ
 
 <h2 id="session">セッション&amp;スピーカー情報</h2>
