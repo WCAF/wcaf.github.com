@@ -5,6 +5,18 @@ description: "今回のテーマは「未来を見据えたWeb制作」です。
 ---
 {% include JB/setup %}
 
+## イベントは終了しました
+
+本イベントは無事終了しました。ご参加いただいたみなさま、ありがとうございました。  
+参加レポートはこちら。
+
+- [WCAF vol.10 聞いて来た！ | とりあえずがんばる（β）](http://betachelsea.hatenablog.com/entry/2013/05/20/233307)
+- [WCAF Vol.10 | 過ぎたるは及ばざるが如し](http://cotton-desu.hatenablog.com/entry/2013/05/21/234059)
+- [WCAF Vol.10 「未来を見据えたWeb制作」に参加しました。 | maki-o memo](http://www.maki-o.net/memo/wcaf10.html)
+- [WCAF vol.10 で話してきました | 虫けらロック](http://bugsrock.com/blog/2013/05/20/wcaf-vol10/)
+- [WCAF Vol.10 が終了しました。 | shilog](http://www.shirokuro331.net/cobalt/?p=879)
+
+
 ### 未来を見据えたWeb制作を
 
 WCAF（Web Creators Association Fukui）は、福井県のWeb制作に携わっている人たちの勉強会コミュニティです。今回は「これからの Web 制作について」をテーマにセミナーイベントを開催します。  
